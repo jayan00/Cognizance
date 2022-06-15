@@ -1,7 +1,0 @@
-first code 
-def fib(n):
-    a, b = 0, 1
-        print(a, end=' ')
-        a, b = 
-print()
- fib(1000)
